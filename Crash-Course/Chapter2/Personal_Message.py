@@ -1,0 +1,7 @@
+# “Hello Eric, would you like to learn some Python today?”
+
+name = "eric"
+
+message="Hello, " + name.title() + " would" + " you" + " like" +" to" + " learn" +" some" + " Python" +" today?"
+
+print(message)
